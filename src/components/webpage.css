@@ -1,0 +1,174 @@
+body {
+    
+    background-size: cover;
+    
+    
+}
+
+#all{
+    color:#333
+}
+
+.header {
+    color: #ffc107;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    background-size: cover;
+    margin-bottom: 0px;
+    padding-top: 40px;
+
+
+    
+    
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: rgb(237, 179, 34);
+    background-size: cover;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #0c0c0c;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color:  rgba(0,0,0,.1);
+    color: black;
+}
+
+.main{
+    margin-left: 450px;
+}
+
+button {
+    background-color: #0c0f0c;
+    color: rgb(237, 179, 34);
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 300px;
+}
+.dog{
+    display: flex;
+    margin-left: 430px;
+}
+.dog1{
+    display: flex;
+    margin-left:430px;
+}
+
+.footer {
+    background-color: rgb(237, 179, 34);
+    padding: 10px;
+    text-align: center;
+}
+
+.footer a {
+    color: black;
+    margin: 0 10px;
+    text-decoration: none;
+
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.contain{
+    
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+.delhi{
+    border: 0px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.car {
+    background-image: url("C:\Users\admin\Downloads\happy-new-year-celebration-with-drink.jpg");
+    background-size: cover;
+    padding: 30px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    background-position: center;
+    
+}
+
+#id{
+    color: #666;
+    margin-bottom: 20px;
+}
+
+#but {
+    background-color: #000509;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #01070e;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ffc107;
+}
+
+.friend {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    height: 100px;
+    width: 180px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.friend h2 {
+    color: #444;
+}
+
+.friend p {
+  color:#666;
+}
+#as{
+    text-align: left;
+}
+h2{
+    color: white;
+}
+.location{
+    background-color: black;
+    padding: 20px;
+}

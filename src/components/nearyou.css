@@ -1,0 +1,57 @@
+.contain{
+    
+    border-radius: 10px;
+    background-color: #ffc107;
+    padding: 20px;
+    margin: 10px 0px 10px 0px;
+    color: black;
+    
+}
+
+
+#nearyoubut {
+    background-color: #ffc107;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+
+.nearyou-box{
+    display: flex;
+    background-color: black;
+    height: 300px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+.nearyou-text{
+    background-color: black;
+    border-radius: 10px;
+    margin: 10px;
+    color: #ffc107;
+    width: 500px;
+    padding: 60px;
+    text-align: center;
+}
+.nearyou-image{
+    background-color: rgb(14, 14, 14);
+    height: 270px;
+    margin: 10px;
+    width: 900px;
+
+}
+#nearyou-textcolour{
+    color: #ffc107;
+}
+
+#topic{
+    color: black;
+    text-align: center;
+}
+#title-nearyou{
+    color: black;
+}
